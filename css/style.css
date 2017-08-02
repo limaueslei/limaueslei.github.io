@@ -1,0 +1,7 @@
+.brand-logo, a {
+	color: #000 !important;
+}
+
+.pattern-cover {
+	background: url('../img/pattern.gif');
+}
