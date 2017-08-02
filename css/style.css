@@ -5,3 +5,18 @@
 .pattern-cover {
 	background: url('../img/pattern.gif');
 }
+
+.parallax-container {
+	height: 450px;
+}
+
+.list-inline {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.list-inline > li {
+	display: inline-block;
+	padding: 5px;
+}
